@@ -1,0 +1,14 @@
+div.bar-top{
+    background-color: var(--main-dark-color);
+    width: 100%;
+    min-width: 100vw;
+    min-height: 5rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 1rem;
+}
+
+div.bar-top h1{
+    color: #ddd
+}

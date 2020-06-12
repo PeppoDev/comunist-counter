@@ -1,0 +1,27 @@
+
+.menu-list{
+    margin:0 auto;
+
+}
+.menu-btn{
+    font-size: 20px;
+    margin: 30vw 0 0 0;
+    height: 15vw;
+    text-decoration:none;
+    border:0;
+    width: 100%;
+    padding: 1rem 8rem;
+    border-radius: 7px;
+    background-color: var(--secondary-light-color);
+    color: white;
+    transition: 600ms ease;
+    
+}
+.menu-item{
+    font-size: 24px;
+    list-style: none;
+   
+}
+.menu-item :hover{
+    background-color: var(--secondary-dark-color);
+}
